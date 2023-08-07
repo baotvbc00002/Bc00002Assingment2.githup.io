@@ -1,0 +1,10 @@
+form{
+    border: 2px solid #ccc;
+	background: #fff;
+	border-radius: 15px;
+}
+input{
+    display: block;
+	border: 2px solid #ccc;
+	border-radius: 5px;
+}

@@ -1,0 +1,14 @@
+form{
+    border: 2px solid #ccc;
+	padding: 20px;
+	background: #fff;
+	border-radius: 15px;
+}
+input{
+    display: block;
+	border: 2px solid #ccc;
+	padding: 10px;
+	margin: 10px auto;
+    width: 200px;
+	border-radius: 5px;
+}
